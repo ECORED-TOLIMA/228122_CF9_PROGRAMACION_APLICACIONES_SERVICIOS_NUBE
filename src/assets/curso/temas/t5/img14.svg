@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_467498" data-name="Rectángulo 467498" width="67.328" height="67.373" fill="#1e535a"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1215939" data-name="Grupo 1215939" transform="translate(-9.277 0.113)">
+    <g id="Grupo_1119665" data-name="Grupo 1119665" transform="translate(9.277 -0.113)">
+      <rect id="Rectángulo_402006" data-name="Rectángulo 402006" width="84" height="84" rx="5" fill="#ffde92"/>
+    </g>
+    <g id="Grupo_1216219" data-name="Grupo 1216219" transform="translate(17.277 7.887)">
+      <g id="Grupo_1216218" data-name="Grupo 1216218" clip-path="url(#clip-path)">
+        <path id="Trazado_1288168" data-name="Trazado 1288168" d="M52.094,36.915l2.174.053,0-4.386H67.324l0,10.9-13.054.008-.006-4.366-4.337.007,0-15.222-2.166,0,0,21.759H31.919l-6.388,6.357a3.3,3.3,0,0,0-.545,1.255l.01,14.1-25,0L.03,55.087a11.832,11.832,0,0,1,9.689-11.44A8.679,8.679,0,0,1,8.676,31.195l0-19.661L20.233,0,47.768,0l0,21.652,2.167.03V6.506l4.338,0,0-4.336,13.054,0,0,10.891H54.273l-.007-4.38-2.172.009v12.98l2.172.049.005-4.305,13.051,0,.006,10.8-13.056,0,0-4.333-2.172,0ZM28.21,34.727l.009-13.014,6.534.011.012,9.3L36.946,28.9l0-15.84,6.5.005V32.15A4.411,4.411,0,0,1,42.262,35.3L34.117,43.46l11.481.012V2.174H21.73l0,10.892-10.86,0,0,16.339a8.643,8.643,0,0,1,8.687,0l.007-14.161,6.485,0v19.5l-2.436.01a9.178,9.178,0,0,1-1.272,7.239,11.652,11.652,0,0,0,3.882-2.443l4.8-4.749ZM19.579,10.884l-.057-7.156-7.141,7.129Zm36.874-6.55,0,6.548,8.71,0,0-6.548ZM41.278,28.645l0-13.394-2.17-.006v12.9ZM23.885,32.356,23.88,17.418l-2.154.01,0,13.7.984,1.423a2.145,2.145,0,0,0,1.171-.2m41.273-12.8h-8.7v6.493h8.7ZM30.376,32.583h2.192v-8.7H30.376Zm-8.661,4.336a6.509,6.509,0,1,0-6.509,6.509,6.509,6.509,0,0,0,6.509-6.509M5.455,52.11H7.619l0,13.084H22.814l0-11.724a4.489,4.489,0,0,1,1.1-2.927L40.792,33.651a1.907,1.907,0,0,0-.156-2.689,1.952,1.952,0,0,0-2.737-.014L27.737,41.062a16.162,16.162,0,0,1-7.129,3.856,5.41,5.41,0,0,1-10.643.923,9.719,9.719,0,0,0-7.8,9.615l.005,9.735H5.455Zm59.7-17.354h-8.7v6.551h8.7ZM18.332,45.063A9.128,9.128,0,0,1,12.009,45a3.19,3.19,0,0,0,3.327,2.769,3.122,3.122,0,0,0,3-2.7" fill="#1e535a"/>
+        <rect id="Rectángulo_467488" data-name="Rectángulo 467488" width="19.562" height="2.193" transform="translate(23.881 8.686)" fill="#1e535a"/>
+        <rect id="Rectángulo_467489" data-name="Rectángulo 467489" width="10.876" height="2.171" transform="translate(23.881 4.335)" fill="#1e535a"/>
+        <rect id="Rectángulo_467490" data-name="Rectángulo 467490" width="2.176" height="2.168" transform="translate(36.943 4.335)" fill="#1e535a"/>
+        <rect id="Rectángulo_467491" data-name="Rectángulo 467491" width="2.169" height="2.169" transform="translate(41.277 6.505) rotate(-89.921)" fill="#1e535a"/>
+        <rect id="Rectángulo_467492" data-name="Rectángulo 467492" width="2.171" height="2.19" transform="translate(13.057 15.23)" fill="#1e535a"/>
+        <rect id="Rectángulo_467493" data-name="Rectángulo 467493" width="2.174" height="2.218" transform="translate(13.056 19.558)" fill="#1e535a"/>
+        <rect id="Rectángulo_467494" data-name="Rectángulo 467494" width="2.176" height="2.173" transform="translate(13.052 23.882)" fill="#1e535a"/>
+        <rect id="Rectángulo_467495" data-name="Rectángulo 467495" width="4.348" height="2.19" transform="matrix(1, -0.001, 0.001, 1, 58.643, 6.504)" fill="#1e535a"/>
+        <rect id="Rectángulo_467496" data-name="Rectángulo 467496" width="4.344" height="2.182" transform="translate(58.648 36.946)" fill="#1e535a"/>
+        <rect id="Rectángulo_467497" data-name="Rectángulo 467497" width="4.344" height="2.186" transform="translate(58.648 21.703)" fill="#1e535a"/>
+      </g>
+    </g>
+  </g>
+</svg>

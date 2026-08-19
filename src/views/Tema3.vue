@@ -81,7 +81,7 @@
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-8.col-12.order-lg-2.order-2
         .cajon.C01.p-4.h-100.w-100
-          p.mb-5(data-aos="fade-down") Los acuerdos de nivel de servicio, conocidos como Service Level Agreement (SLA), constituyen un compromiso formal entre un proveedor de servicios y sus usuarios o clientes, en el cual se establecen las condiciones bajo las cuales será prestado un servicio tecnológico. Estos acuerdos definen aspectos relacionados con la disponibilidad, el desempeño, los tiempos de respuesta y las responsabilidades de las partes involucradas, permitiendo establecer expectativas claras sobre la calidad del servicio.
+          p.mb-5(data-aos="fade-down") Los acuerdos de nivel de servicio, conocidos como <b>Service Level Agreement (SLA)</b>, constituyen un compromiso formal entre un proveedor de servicios y sus usuarios o clientes, en el cual se establecen las condiciones bajo las cuales será prestado un servicio tecnológico. Estos acuerdos definen aspectos relacionados con la disponibilidad, el desempeño, los tiempos de respuesta y las responsabilidades de las partes involucradas, permitiendo establecer expectativas claras sobre la calidad del servicio.
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure

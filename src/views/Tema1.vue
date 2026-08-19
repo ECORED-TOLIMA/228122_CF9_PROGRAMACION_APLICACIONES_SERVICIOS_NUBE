@@ -327,7 +327,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t1/img29.svg' alt='AvatarTop')
           h4.text-center Envío del mensaje al servidor de correo
-          p Los servicios pueden utilizarse desde diferentes dispositivos conectados a Internet, facilitando la movilidad y el trabajo remoto.
+          p El cliente de correo envía el mensaje al servidor utilizando el protocolo SMTP, encargado de gestionar la transmisión inicial del correo.
         .tarjeta.tarjeta--bg04.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6

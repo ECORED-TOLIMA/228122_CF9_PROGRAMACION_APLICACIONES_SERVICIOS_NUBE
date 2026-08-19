@@ -230,6 +230,11 @@
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
+                      img(src="@/assets/curso/temas/t2/img25.svg", alt="Imagen decorativa").img100.m-auto
+                  p Ejecución de la prueba.
+                .tarjeta.tarjeta--slyder.p-4.py-2
+                  .row.justify-content-center.mb-3
+                    .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t2/img18.svg", alt="Imagen decorativa").img100.m-auto
                   p Recolección de métricas e indicadores.
                 .tarjeta.tarjeta--slyder.p-4.py-2

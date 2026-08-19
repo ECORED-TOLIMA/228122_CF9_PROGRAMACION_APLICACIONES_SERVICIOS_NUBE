@@ -33,32 +33,32 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img04.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Monitoreo continuo
+                  h5 Identificación de riesgos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img05.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Recolección de datos
+                  h5 Implementación de controles
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img06.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Análisis de indicadores
+                  h5 Redundancia y tolerancia a fallas
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img07.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Detección de incidentes
+                  h5 Planes de contingencia
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img08.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Implementación de acciones de mejora
+                  h5 Recuperación del servicio
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t4/img09.svg", alt="Imagen decorativa").img100.m-auto
-                  h5 Verificación del desempeño
+                  h5 Monitoreo y mejora continua
     .row.justify-content-center.mb-0
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
@@ -229,8 +229,8 @@
         figure
           img(src='@/assets/curso/temas/t4/img28.svg', alt='Imagen decorativa')
       .col.col-lg-9.col-12.order-lg-2.order-2
-        .cajon.cajon.C03.px-4.py-1
-          p.mb-0(data-aos="fade-down") Un <b>plan de contingencia</b> es un conjunto de estrategias y acciones previamente definidas que permiten responder de manera organizada ante eventos que afectan el funcionamiento de la infraestructura tecnológica. Su propósito es minimizar las consecuencias de los incidentes, proteger los recursos críticos y restablecer los servicios de forma segura y eficiente.
+        .cajon.cajon.C03.px-4.py-3
+          p.mb-0(data-aos="fade-down") La aplicación conjunta de estas medidas contribuye a fortalecer la protección de la infraestructura tecnológica y a disminuir la probabilidad de incidentes que puedan afectar la disponibilidad de los servicios o comprometer la información administrada en la nube.
     p.mb-4(data-aos="fade-down") Los principales proveedores de servicios de computación en la nube incorporan herramientas especializadas que facilitan la gestión de la seguridad. Entre ellas se encuentran Microsoft Defender for <em>Cloud</em>, AWS Security Hub y Google Security Command Center, las cuales permiten supervisar el estado de seguridad de los recursos, identificar vulnerabilidades, generar recomendaciones y apoyar la implementación de buenas prácticas para la protección de la infraestructura y las aplicaciones.
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-5.col-12.order-lg-1.order-2

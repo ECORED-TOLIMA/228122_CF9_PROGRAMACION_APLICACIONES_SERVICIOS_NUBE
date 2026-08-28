@@ -138,7 +138,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img09.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img09.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Evidencias recopiladas
@@ -146,7 +146,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img10.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img10.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Alcance de la evaluación
@@ -154,7 +154,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img11.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img11.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Recomendaciones de mejora
@@ -162,7 +162,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img12.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img12.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Objetivo de la auditoría
@@ -170,7 +170,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img13.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img13.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Hallazgos identificados
@@ -178,7 +178,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img14.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t5/img14.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Conclusiones de la auditoría
@@ -187,7 +187,7 @@
       .col.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8
-          span Herramientas utilizadas para pruebas de rendimiento
+          span Ejemplo simplificado de un informe de auditoría
         .tabla-a.color-acento-contenido
           table
             thead

@@ -29,7 +29,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img03.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img03.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Usuarios o aplicaciones
@@ -37,7 +37,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img04.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img04.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Solicitudes al servicio
@@ -45,7 +45,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img05.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img05.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Procesamiento del servicio
@@ -53,7 +53,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img06.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img06.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Medición del rendimiento
@@ -61,7 +61,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img07.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img07.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Análisis de resultados
@@ -69,7 +69,7 @@
             .row.justify-content-center
               .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
                 .cajon.cajon.C11.p-0.h-100
-                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img08.svg' alt="Imagen decorativa")
+                  img.w-100.h-100.my-auto(src='@/assets/curso/temas/t2/img08.svg' alt="")
               .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
                   h5.mb-0 Acciones de optimización
@@ -214,38 +214,38 @@
           .row.align-items-center.bg01(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t2/img15.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t2/img15.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img16.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img16.svg", alt="").img100.m-auto
                   p Definición del objetivo de la prueba.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img17.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img17.svg", alt="").img100.m-auto
                   p Configuración del escenario (usuarios, solicitudes y duración).
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img25.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img25.svg", alt="").img100.m-auto
                   p Ejecución de la prueba.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img18.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img18.svg", alt="").img100.m-auto
                   p Recolección de métricas e indicadores.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img19.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img19.svg", alt="").img100.m-auto
                   p Análisis de los resultados.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t2/img20.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t2/img20.svg", alt="").img100.m-auto
                   p Implementación de acciones de mejora.
     p.mb-0(data-aos="fade-down") La ejecución de una prueba de rendimiento no finaliza con la obtención de los resultados. La información recopilada debe analizarse para determinar si el servicio cumple con los niveles de desempeño esperados o si requiere ajustes en la configuración, la infraestructura o la asignación de recursos. Este proceso constituye un insumo para la toma de decisiones orientadas a la optimización y mejora continua de los servicios tecnológicos.
     separador
@@ -263,7 +263,7 @@
       .col.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6
-          span Herramientas utilizadas para pruebas de rendimiento
+          span Tipos de pruebas sobre servicios tecnológicos
         .tabla-a.color-acento-contenido
           table
             thead

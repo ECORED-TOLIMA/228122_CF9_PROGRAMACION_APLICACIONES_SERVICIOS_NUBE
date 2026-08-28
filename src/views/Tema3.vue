@@ -27,48 +27,48 @@
           .row.align-items-center.bg01(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t3/img03.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t3/img03.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img04.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img04.svg", alt="").img100.m-auto
                   h5 Servicios tecnológicos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img05.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img05.svg", alt="").img100.m-auto
                   h5 Monitoreo continuo
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img06.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img06.svg", alt="").img100.m-auto
                   h5 Recolección de datos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img07.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img07.svg", alt="").img100.m-auto
                   h5 Análisis de indicadores
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img08.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img08.svg", alt="").img100.m-auto
                   h5 Detección de incidentes
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img09.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img09.svg", alt="").img100.m-auto
                   h5 Implementación de acciones de mejora
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img10.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img10.svg", alt="").img100.m-auto
                   h5 Verificación del desempeño
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img11.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img11.svg", alt="").img100.m-auto
                   h5 Monitoreo continuo
     p.mb-4(data-aos="fade-down") El monitoreo inicia con la supervisión de los servicios tecnológicos y continúa con la recolección y el análisis de información sobre su funcionamiento. Los resultados obtenidos permiten detectar incidentes, implementar acciones de mejora y verificar nuevamente el desempeño de los servicios, favoreciendo un ciclo permanente de evaluación y optimización.
     .row.justify-content-center.mb-0
@@ -98,7 +98,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img14.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img14.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Servicio
             h5.t2.mb-2 Servicio
@@ -108,7 +108,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img15.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img15.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Disponibilidad
             h5.t2.mb-2 Disponibilidad
@@ -118,7 +118,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img16.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img16.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Tiempos de respuesta
             h5.t2.mb-2 Tiempos de respuesta
@@ -128,7 +128,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img17.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img17.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Tiempos de solución
             h5.t2.mb-2 Tiempos de solución
@@ -138,7 +138,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img18.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img18.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Indicadores de desempeño
             h5.t2.mb-2 Indicadores de desempeño
@@ -148,7 +148,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/t3/img19.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/t3/img19.png", alt="")
           .crd_hover_txt--body
             h5.t1.mb-3 Responsabilidades
             h5.t2.mb-2 Responsabilidades

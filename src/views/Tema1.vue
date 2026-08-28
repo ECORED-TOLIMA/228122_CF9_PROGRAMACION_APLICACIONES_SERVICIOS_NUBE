@@ -54,43 +54,43 @@
           .row.align-items-center.bg01(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t1/img06.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t1/img06.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img07.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img07.svg", alt="").img100.m-auto
                   p Disponibilidad del servicio.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img08.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img08.svg", alt="").img100.m-auto
                   p Accesibilidad desde la red.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img09.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img09.svg", alt="").img100.m-auto
                   p Tiempo de respuesta.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img10.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img10.svg", alt="").img100.m-auto
                   p Correcta resolución de solicitudes.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img11.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img11.svg", alt="").img100.m-auto
                   p Estado de los puertos asociados al servicio.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img12.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img12.svg", alt="").img100.m-auto
                   p Capacidad para atender múltiples solicitudes sin afectar su funcionamiento.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t1/img13.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t1/img13.svg", alt="").img100.m-auto
                   p Registro adecuado de eventos y errores.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -236,7 +236,7 @@
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Sistema de nombres de dominio dinámico (DDNS)
-              p en algunos entornos tecnológicos, especialmente aquellos donde las direcciones IP cambian con frecuencia, resulta necesario actualizar automáticamente la relación entre el nombre de dominio y la dirección IP asignada al dispositivo. Para ello se utiliza el Sistema de Nombres de Dominio Dinámico (Dynamic Domain Name System - DDNS).
+              p En algunos entornos tecnológicos, especialmente aquellos donde las direcciones IP cambian con frecuencia, resulta necesario actualizar automáticamente la relación entre el nombre de dominio y la dirección IP asignada al dispositivo. Para ello se utiliza el Sistema de Nombres de Dominio Dinámico (Dynamic Domain Name System - DDNS).
               p El DDNS permite que estas actualizaciones se realicen de manera automática cada vez que cambia la dirección IP, evitando interrupciones en el acceso a los servicios publicados. Esta funcionalidad es ampliamente utilizada en redes domésticas, pequeñas organizaciones y entornos donde los proveedores de Internet asignan direcciones IP dinámicas.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure

@@ -21,50 +21,50 @@
           .row.align-items-center.bg01(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t4/img02.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t4/img02.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img03.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img03.svg", alt="").img100.m-auto
                   h5 Servicios tecnológicos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img04.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img04.svg", alt="").img100.m-auto
                   h5 Identificación de riesgos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img05.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img05.svg", alt="").img100.m-auto
                   h5 Implementación de controles
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img06.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img06.svg", alt="").img100.m-auto
                   h5 Redundancia y tolerancia a fallas
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img07.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img07.svg", alt="").img100.m-auto
                   h5 Planes de contingencia
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img08.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img08.svg", alt="").img100.m-auto
                   h5 Recuperación del servicio
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img09.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img09.svg", alt="").img100.m-auto
                   h5 Monitoreo y mejora continua
     .row.justify-content-center.mb-0
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/t4/img10.jpg', alt='Imagen decorativa')
       .col.col-lg-8.col-12.order-lg-1.order-2
-        p.mb-2(data-aos="fade-down") La gestión de continuidad y seguridad, inicia con la identificación de los riesgos que pueden afectar la operación de los servicios tecnológicos. Posteriormente, se implementan controles orientados a reducir la probabilidad de interrupciones, fortalecer la disponibilidad mediante mecanismos de redundancia y establecer planes que permitan recuperar los servicios cuando ocurre un incidente. Finalmente, el monitoreo continuo facilita la evaluación de las acciones implementadas y la mejora permanente de la infraestructura tecnológica.
+        p.mb-2(data-aos="fade-down") La gestión de continuidad y seguridad inicia con la identificación de los riesgos que pueden afectar la operación de los servicios tecnológicos. Posteriormente, se implementan controles orientados a reducir la probabilidad de interrupciones, fortalecer la disponibilidad mediante mecanismos de redundancia y establecer planes que permitan recuperar los servicios cuando ocurre un incidente. Finalmente, el monitoreo continuo facilita la evaluación de las acciones implementadas y la mejora permanente de la infraestructura tecnológica.
         .cajon.cajon.C08.color-primario.px-4.py-3.mb-0
           p.mb-0(data-aos="fade-down") La aplicación de estrategias de continuidad y seguridad fortalece la capacidad de las organizaciones para mantener la disponibilidad de sus servicios tecnológicos, responder de manera oportuna ante incidentes y proteger la información que soporta los procesos institucionales. Estos elementos constituyen la base para implementar mecanismos de redundancia, planes de contingencia y controles de seguridad.
     separador
@@ -81,7 +81,7 @@
       .col.col-lg-6.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-3.mb-4
           p.mb-0(data-aos="fade-down") Por su parte, la tolerancia a fallas corresponde a la capacidad de un sistema para continuar prestando un servicio aun cuando uno o varios de sus componentes presenten fallas. Esta capacidad se logra mediante la implementación de mecanismos que permiten detectar los incidentes y transferir automáticamente la operación hacia los recursos disponibles, reduciendo los tiempos de indisponibilidad.
-        p.mb-0(data-aos="fade-down") Con el propósito de comprender la relación entre la redundancia de servidores y la tolerancia a fallas, en la siguiente figura, se presenta un esquema general del funcionamiento de estos mecanismos.
+        p.mb-0(data-aos="fade-down") Con el propósito de comprender la relación entre la redundancia de servidores y la tolerancia a fallas, en la siguiente figura se presenta un esquema general del funcionamiento de estos mecanismos.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -144,43 +144,43 @@
           .row.align-items-center.bg01(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t4/img17.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t4/img17.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img18.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img18.svg", alt="").img100.m-auto
                   h5 Incidente detectado
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img19.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img19.svg", alt="").img100.m-auto
                   h5 Evaluación de la situación
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img20.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img20.svg", alt="").img100.m-auto
                   h5 Activación del plan de contingencia
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img21.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img21.svg", alt="").img100.m-auto
                   h5 Aplicación de procedimientos operativos
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img22.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img22.svg", alt="").img100.m-auto
                   h5 Recuperación del servicio
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img23.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img23.svg", alt="").img100.m-auto
                   h5 Verificación del funcionamiento
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t4/img24.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t4/img24.svg", alt="").img100.m-auto
                   h5 Mejora continua
     p(data-aos="fade-down") El proceso inicia con la detección y evaluación de la situación, continúa con la activación del plan de contingencia y la ejecución de los procedimientos operativos, y finaliza con la recuperación y verificación del funcionamiento del servicio. La información obtenida durante este proceso permite fortalecer las acciones de mejora continua y preparar a la organización para futuros eventos.
     p.mb-4(data-aos="fade-down") La implementación de planes de contingencia y procedimientos operativos favorece la continuidad de los servicios tecnológicos, reduce los tiempos de recuperación y fortalece la capacidad de respuesta de las organizaciones frente a situaciones que puedan comprometer la disponibilidad de la infraestructura. Asimismo, contribuye al cumplimiento de los acuerdos de nivel de servicio y al fortalecimiento de la gestión de continuidad y seguridad.

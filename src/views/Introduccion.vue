@@ -12,7 +12,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/intro/img01.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/intro/img01.svg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-3
           p.mb-0(data-aos="fade-down") El monitoreo y la gestión de servicios tecnológicos permiten evaluar el comportamiento de los componentes que integran una plataforma de cómputo, mediante la aplicación de pruebas de funcionamiento y rendimiento, el seguimiento de indicadores de disponibilidad y confiabilidad, así como la implementación de mecanismos de continuidad, seguridad y documentación operativa. Estas actividades facilitan la toma de decisiones orientadas a optimizar el desempeño de la infraestructura y garantizar la prestación continua de los servicios tecnológicos.

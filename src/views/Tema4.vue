@@ -9,7 +9,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t4/img01.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img01.jpg', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") La gestión de continuidad y seguridad comprende el conjunto de estrategias, procedimientos y controles orientados a garantizar que los servicios tecnológicos permanezcan disponibles y protegidos frente a incidentes que puedan afectar su funcionamiento. Su propósito es reducir el impacto de fallas, minimizar los tiempos de interrupción y asegurar la recuperación de los servicios cuando se presentan situaciones que comprometen la operación de la infraestructura tecnológica.
         .cajon.cajon.C08.color-primario.p-4.mb-0
@@ -62,7 +62,7 @@
     .row.justify-content-center.mb-0
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t4/img10.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img10.jpg', alt='')
       .col.col-lg-8.col-12.order-lg-1.order-2
         p.mb-2(data-aos="fade-down") La gestión de continuidad y seguridad inicia con la identificación de los riesgos que pueden afectar la operación de los servicios tecnológicos. Posteriormente, se implementan controles orientados a reducir la probabilidad de interrupciones, fortalecer la disponibilidad mediante mecanismos de redundancia y establecer planes que permitan recuperar los servicios cuando ocurre un incidente. Finalmente, el monitoreo continuo facilita la evaluación de las acciones implementadas y la mejora permanente de la infraestructura tecnológica.
         .cajon.cajon.C08.color-primario.px-4.py-3.mb-0
@@ -72,12 +72,12 @@
       h2 4.1 Redundancia de servidores y tolerancia a fallas
     p.mb-4(data-aos="fade-down") La disponibilidad de los servicios tecnológicos depende de la capacidad de la infraestructura para continuar operando aun cuando alguno de sus componentes presente fallas. Para lograrlo, las organizaciones implementan estrategias de redundancia y tolerancia a fallas que permiten reducir el riesgo de interrupciones y garantizar la continuidad de los servicios.
     figure.mb-4
-      img(src='@/assets/curso/temas/t4/img11.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/t4/img11.png', alt='')
     p.mb-4(data-aos="fade-down") La redundancia de servidores consiste en disponer de recursos tecnológicos adicionales que respaldan el funcionamiento de un servicio cuando el servidor principal presenta una falla o requiere mantenimiento. Estos recursos pueden mantenerse disponibles de manera permanente o activarse únicamente cuando ocurre una interrupción, permitiendo que los usuarios continúen accediendo al servicio con una afectación mínima.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t4/img12.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img12.svg', alt='')
       .col.col-lg-6.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-3.mb-4
           p.mb-0(data-aos="fade-down") Por su parte, la tolerancia a fallas corresponde a la capacidad de un sistema para continuar prestando un servicio aun cuando uno o varios de sus componentes presenten fallas. Esta capacidad se logra mediante la implementación de mecanismos que permiten detectar los incidentes y transferir automáticamente la operación hacia los recursos disponibles, reduciendo los tiempos de indisponibilidad.
@@ -98,7 +98,7 @@
     .row.bg03.justify-content-center.align-items-center.px-3.mb-4
       .col.col-lg-3.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t4/img15.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img15.svg', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .tarjeta.tarjeta--blanca.p-4
           p.text-bold.mb-4 La implementación de mecanismos de redundancia y tolerancia a fallas aporta diferentes beneficios para la gestión de los servicios tecnológicos, entre ellos:
@@ -126,14 +126,14 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t4/img16.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img16.svg', alt='')
       .col.col-lg-11.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.px-4.py-1
           p.mb-0(data-aos="fade-down") Un <b>plan de contingencia</b> es un conjunto de estrategias y acciones previamente definidas que permiten responder de manera organizada ante eventos que afectan el funcionamiento de la infraestructura tecnológica. Su propósito es minimizar las consecuencias de los incidentes, proteger los recursos críticos y restablecer los servicios de forma segura y eficiente.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t4/img16.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img16.svg', alt='')
       .col.col-lg-11.col-12.order-lg-1.order-2
         .cajon.cajon.C02.color-secundario.px-4.py-1
           p.mb-0(data-aos="fade-down") Por su parte, los <b>procedimientos operativos</b> describen las actividades que deben ejecutarse para prevenir, atender y recuperar la operación de los servicios tecnológicos. Estos procedimientos establecen responsabilidades, definen las acciones que deben realizarse en cada etapa y favorecen una respuesta coordinada frente a los diferentes escenarios de contingencia.
@@ -190,14 +190,14 @@
           p.mb-0(data-aos="fade-down") Por ejemplo, durante una interrupción del servicio ocasionada por una falla en un servidor, la organización activa su plan de contingencia y ejecuta los procedimientos definidos para restaurar la operación utilizando la infraestructura de respaldo. Una vez recuperado el servicio, se verifica su funcionamiento y se analizan las causas del incidente para implementar acciones que reduzcan la probabilidad de que vuelva a presentarse.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t4/img25.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img25.jpg', alt='')
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Seguridad en entornos #[em cloud]
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t4/img26.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img26.jpg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-3(data-aos="fade-down") La computación en la nube ofrece múltiples beneficios relacionados con la disponibilidad, la escalabilidad y el acceso a los servicios tecnológicos. Sin embargo, también requiere la implementación de medidas de seguridad que permitan proteger la información, garantizar la continuidad de los servicios y reducir los riesgos asociados al acceso, almacenamiento y procesamiento de los datos.
         .cajon.cajon.C08.color-primario.px-4.py-4.mb-4
@@ -223,11 +223,11 @@
               p.mb-0 Permite identificar eventos inusuales, detectar posibles amenazas y generar alertas que facilitan una respuesta oportuna.
       .col-lg-4.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t4/img27.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img27.png', alt='')
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t4/img28.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img28.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-3
           p.mb-0(data-aos="fade-down") La aplicación conjunta de estas medidas contribuye a fortalecer la protección de la infraestructura tecnológica y a disminuir la probabilidad de incidentes que puedan afectar la disponibilidad de los servicios o comprometer la información administrada en la nube.
@@ -238,7 +238,7 @@
           p.mb-0(data-aos="fade-down") Por ejemplo, una empresa desarrolla y despliega una aplicación en la nube para la gestión de sus procesos internos. Para fortalecer su seguridad, configura autenticación multifactor para los usuarios administradores, cifra la información almacenada, programa copias de seguridad periódicas y utiliza una herramienta de monitoreo, como Microsoft Defender for <em>Cloud</em>, AWS Security Hub o Google Security Command Center, para identificar vulnerabilidades y recibir recomendaciones que contribuyan a proteger la infraestructura y garantizar la continuidad del servicio.
       .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t4/img29.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img29.jpg', alt='')
     p.mb-0(data-aos="fade-down") La implementación de medidas de seguridad en entornos <em>cloud</em> contribuye a proteger la infraestructura, las aplicaciones y la información frente a diferentes amenazas. Además, complementa estrategias como la redundancia, los planes de contingencia y el monitoreo de los servicios tecnológicos, fortaleciendo la disponibilidad y la confiabilidad de los servicios desplegados en la nube.
 </template>
 <script>

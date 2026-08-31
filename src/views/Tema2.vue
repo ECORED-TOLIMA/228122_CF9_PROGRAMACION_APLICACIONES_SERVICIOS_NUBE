@@ -17,7 +17,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t2/img02.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img02.jpg', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-3
           p.mb-0(data-aos="fade-down") Las pruebas de rendimiento pueden aplicarse a diferentes componentes de una infraestructura tecnológica, como servidores, aplicaciones, bases de datos, servicios <em>web</em> o plataformas alojadas en entornos de computación en la nube. Dependiendo del objetivo de la evaluación, es posible analizar aspectos como la capacidad de procesamiento, el consumo de recursos, la estabilidad del servicio y los tiempos de respuesta frente a distintos escenarios de utilización.
@@ -88,7 +88,7 @@
           p.mb-0(data-aos="fade-down") Aunque ambas pruebas buscan evaluar el desempeño de un sistema, su propósito y las condiciones bajo las cuales se ejecutan son diferentes. Mientras las pruebas de carga verifican el comportamiento del servicio bajo condiciones normales o esperadas de utilización, las pruebas de estrés analizan la respuesta del sistema cuando es sometido a condiciones superiores a su capacidad de operación.
       .col-lg-6.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t2/img09.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img09.jpg', alt='')
     p.mb-4(data-aos="fade-down") Las principales diferencias entre estos dos tipos de pruebas son:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -126,7 +126,7 @@
           .row.justify-content-center
             .col-lg-5.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/t2/img10.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t2/img10.jpg', alt='')
             .col-lg-7.mb-4.mb-md-0
               p.mb-4 Consisten en someter un servicio, aplicación o infraestructura tecnológica a un volumen de trabajo similar al esperado durante su operación habitual. Su propósito es verificar que el sistema mantenga un desempeño estable cuando atiende la cantidad de usuarios, transacciones o solicitudes para la cual fue diseñado.
               p.mb-0 Durante su ejecución es posible medir indicadores como el tiempo de respuesta, el consumo de recursos, el número de solicitudes procesadas y la estabilidad del servicio. Los resultados obtenidos permiten identificar oportunidades de optimización antes de que la solución sea puesta en producción o cuando se realizan modificaciones en la infraestructura. 
@@ -135,7 +135,7 @@
           .row.justify-content-center
             .col-lg-5.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/t2/img11.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t2/img11.jpg', alt='')
             .col-lg-7.mb-4.mb-md-0
               p.mb-4 Buscan evaluar el comportamiento de un servicio cuando la carga supera las condiciones normales de operación. Para ello, incrementan progresivamente el número de usuarios o solicitudes hasta alcanzar un punto en el que el sistema presenta degradación en su rendimiento o deja de responder correctamente.
               p.mb-0 Estas pruebas permiten identificar el límite de capacidad de la infraestructura, evaluar los mecanismos de recuperación ante fallas y determinar si el servicio mantiene condiciones mínimas de funcionamiento durante situaciones críticas. La información obtenida resulta útil para fortalecer la planificación de la capacidad, implementar estrategias de continuidad y reducir el impacto de posibles interrupciones en la prestación de los servicios tecnológicos.
@@ -146,7 +146,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t2/img12.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img12.jpg', alt='')
       .col.col-lg-8.col-12.order-lg-1.order-2
         p.mb-3(data-aos="fade-down") Las pruebas de rendimiento requieren herramientas especializadas que permitan simular diferentes condiciones de operación y recopilar información sobre el comportamiento de los servicios tecnológicos. Estas herramientas facilitan la generación de múltiples solicitudes de manera controlada, el monitoreo del desempeño y el análisis de indicadores relacionados con la capacidad de respuesta, el uso de recursos y la estabilidad de la infraestructura.
         .cajon.cajon.C08.color-primario.p-4.mb-3
@@ -186,7 +186,7 @@
     .row.bg03.justify-content-center.align-items-center.px-3.mb-4
       .col.col-lg-3.col-6.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t2/img14.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img14.svg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         .tarjeta.tarjeta--blanca.p-4
           p.text-bold.mb-4 Entre las principales capacidades de JMeter se encuentran:
@@ -254,7 +254,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t2/img21.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img21.jpg', alt='')
       .col.col-lg-6.col-12.order-lg-1.order-2
         p.mb-3(data-aos="fade-down") La evaluación del rendimiento de los servicios tecnológicos comprende diferentes tipos de pruebas, cada una diseñada para analizar el comportamiento de la infraestructura bajo condiciones específicas de operación. La selección del tipo de prueba depende de los objetivos de la evaluación, las características del servicio y los aspectos del desempeño que se desean verificar.
         .cajon.cajon.C08.color-primario.px-4.py-3.mb-0
@@ -294,21 +294,21 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/t2/img22.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/t2/img22.svg', alt='')(style="width: 100%")
             h4.text-center Prueba de volumen
             p Las pruebas de volumen consisten en evaluar el comportamiento de un servicio cuando procesa grandes cantidades de datos. Su propósito es verificar que la infraestructura mantenga un desempeño adecuado durante operaciones que implican altos niveles de almacenamiento, consulta o transferencia de información.
           .col-xl.col-lg-6.tarjeta.tarjeta--C13.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/t2/img23.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/t2/img23.svg', alt='')(style="width: 100%")
             h4.text-center Prueba de resistencia
             p Las pruebas de resistencia, también conocidas como <em>endurance</em> o <em>soak</em> testing, permiten verificar la estabilidad del servicio durante períodos prolongados de funcionamiento continuo. Estas pruebas facilitan la identificación de problemas relacionados con el consumo de recursos, degradación del rendimiento o fallas que pueden presentarse con el paso del tiempo.
           .col-xl.col-lg-6.tarjeta.tarjeta--C14.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/t2/img24.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/t2/img24.svg', alt='')(style="width: 100%")
             h4.text-center Prueba de escalabilidad
             p Las pruebas de escalabilidad evalúan la capacidad de un servicio para responder adecuadamente al incremento gradual de usuarios, transacciones o recursos tecnológicos. Su aplicación permite determinar si la infraestructura puede crecer de manera eficiente sin afectar la disponibilidad ni el rendimiento del servicio.
     p.mb-0(data-aos="fade-down") La aplicación de diferentes tipos de pruebas proporciona una visión integral del comportamiento de los servicios tecnológicos. La información obtenida facilita la identificación de fortalezas y oportunidades de mejora, contribuyendo a la optimización de la infraestructura y al cumplimiento de los niveles de servicio establecidos.

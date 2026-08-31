@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t1/img01.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img01.svg', alt='')
       .col.col-lg-8.col-12.order-lg-1.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-down") La verificación de servicios de red consiste en evaluar el estado y el desempeño de los diferentes servicios que hacen posible la comunicación dentro de una infraestructura tecnológica. Este proceso permite identificar fallas, detectar configuraciones inadecuadas, validar la disponibilidad de los recursos y comprobar que los servicios respondan correctamente a las solicitudes de los usuarios y las aplicaciones.
@@ -41,7 +41,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t1/img05.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img05.jpg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-3
           p.mb-0(data-aos="fade-down") Las pruebas de funcionamiento de servicios de red son procedimientos técnicos que permiten comprobar si los diferentes servicios que conforman una infraestructura tecnológica operan de acuerdo con las condiciones establecidas por la organización. Estas pruebas verifican la disponibilidad, accesibilidad y capacidad de respuesta de los servicios, con el propósito de identificar fallas, prevenir interrupciones y garantizar que los usuarios puedan acceder a los recursos de manera oportuna y segura.
@@ -95,7 +95,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t1/img14.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img14.svg', alt='')
       .col.col-lg-11.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-3
           p.mb-0(data-aos="fade-down") La información obtenida durante las pruebas permite determinar si un servicio presenta un funcionamiento normal o si requiere actividades de mantenimiento, ajustes de configuración o acciones correctivas para restablecer su operación.
@@ -104,28 +104,28 @@
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img15.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img15.png', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Pruebas de conectividad
             p.mb-0 Verifican que exista comunicación entre los diferentes dispositivos y servicios de la red. Permiten identificar problemas relacionados con enlaces, direccionamiento IP, enrutamiento o disponibilidad de equipos.
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img16.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img16.png', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Pruebas de disponibilidad
             p.mb-0 Comprueban que un servicio permanezca activo y accesible para los usuarios durante el tiempo esperado. Estas pruebas son fundamentales para medir el cumplimiento de los acuerdos de nivel de servicio (SLA).
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img17.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img17.png', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Pruebas de respuesta
             p.mb-0 Evalúan el tiempo que tarda un servicio en responder a una solicitud. Un incremento en los tiempos de respuesta puede indicar sobrecarga, problemas de configuración o limitaciones en los recursos tecnológicos.
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img18.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img18.png', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Pruebas funcionales
             p.mb-0 Validan que el servicio ejecute correctamente las funciones para las cuales fue implementado. Por ejemplo, verificar que un servidor DNS resuelva nombres de dominio correctamente o que un servidor de correo procese el envío y la recepción de mensajes.
@@ -158,7 +158,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col.col-12.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block.mb-lg-2
             figure
-              img(src='@/assets/curso/temas/t1/img19.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t1/img19.svg', alt='')
           .col.col-12.order-lg-2.order-2
             p.mb-0(data-aos="fade-down") Las pruebas de funcionamiento no constituyen una actividad aislada, sino que forman parte de un proceso continuo de monitoreo y gestión de los servicios tecnológicos. Su aplicación periódica permite identificar desviaciones en el desempeño de la infraestructura, facilitar la toma de decisiones basada en evidencia y contribuir a la continuidad operativa de la organización.
     separador
@@ -172,12 +172,12 @@
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t1/img21.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img21.svg', alt='')
             .col-lg-10.col-12
               p.mb-0(data-aos="fade-down") El funcionamiento del DNS se basa en servidores especializados que responden las consultas realizadas por clientes y otros servidores de nombres. Esta organización distribuida permite que la resolución de nombres sea rápida, escalable y tolerante a fallos, características indispensables para el funcionamiento de Internet y de las redes corporativas.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t1/img20.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img20.jpg', alt='')
     p.mb-4(data-aos="fade-down") Antes de describir las características de los principales servicios de resolución de nombres, resulta conveniente revisar la relación entre ellos y el propósito que cumplen dentro de una infraestructura tecnológica. A continuación, se presentan los servicios DNS, DNSSEC y DDNS, junto con su función principal.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -224,7 +224,7 @@
                     p.mb-0 Permitir la escalabilidad de la infraestructura tecnológica.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img22.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img22.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Extensiones de Seguridad para DNS (DNSSEC)
@@ -232,7 +232,7 @@
               p La implementación de DNSSEC contribuye a prevenir ataques como la suplantación de respuestas (DNS Spoofing) o el envenenamiento de la memoria caché (Cache Poisoning), fortaleciendo la confianza en la resolución de nombres y reduciendo los riesgos asociados a la manipulación de registros DNS.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img23.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img23.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Sistema de nombres de dominio dinámico (DDNS)
@@ -240,7 +240,7 @@
               p El DDNS permite que estas actualizaciones se realicen de manera automática cada vez que cambia la dirección IP, evitando interrupciones en el acceso a los servicios publicados. Esta funcionalidad es ampliamente utilizada en redes domésticas, pequeñas organizaciones y entornos donde los proveedores de Internet asignan direcciones IP dinámicas.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img24.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img24.jpg', alt='')
     p.mb-0(data-aos="fade-down") En conjunto, DNS, DNSSEC y DDNS permiten garantizar la localización, protección y actualización de los recursos de red, contribuyendo a la disponibilidad, la seguridad y la continuidad de los servicios tecnológicos que soportan las operaciones de una organización.
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -255,7 +255,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t1/img26.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img26.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-1
           p.mb-0(data-aos="fade-down") El funcionamiento del correo electrónico se basa en la interacción de protocolos especializados. Algunos se encargan del envío de mensajes, mientras que otros permiten a los usuarios acceder al correo almacenado en el servidor. Asimismo, existen versiones que incorporan mecanismos de cifrado para proteger la información durante su transmisión.
@@ -308,7 +308,7 @@
               p.mb-0 Versión segura de POP3 que utiliza conexiones cifradas para garantizar la confidencialidad e integridad de la información durante la recepción de los mensajes.
       .col-lg-6.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t1/img27.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img27.jpg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C08.color-primario.p-4
@@ -349,7 +349,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t1/img33.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img33.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-1
           p.mb-0(data-aos="fade-down") En las organizaciones, una adecuada gestión del correo electrónico permite mejorar la comunicación interna y externa, garantizar la seguridad de la información y asegurar la disponibilidad de uno de los servicios más importantes dentro de la infraestructura tecnológica.

@@ -9,12 +9,12 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t5/img01.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img01.jpg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .row.justify-content-center
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/t5/img02.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t5/img02.svg', alt='')
           .col-lg-10.col-12
             p.mb-4(data-aos="fade-down") La gestión de los servicios tecnológicos no finaliza con su implementación y monitoreo. Es necesario documentar las actividades realizadas, registrar los eventos ocurridos durante la operación y verificar el cumplimiento de los procedimientos establecidos. La documentación facilita el seguimiento de los servicios, contribuye a la resolución de incidentes y proporciona información útil para la toma de decisiones y la mejora continua.
         .cajon.cajon.C08.color-primario.p-3.mb-4
@@ -39,7 +39,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t5/img05.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img05.jpg', alt='')
       .col.col-lg-6.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Las bitácoras de operación son documentos utilizados para registrar de manera cronológica las actividades realizadas durante la administración y funcionamiento de los servicios tecnológicos. Estos registros permiten documentar eventos relevantes, facilitar el seguimiento de incidentes y conservar evidencia de las acciones ejecutadas sobre la infraestructura, las aplicaciones y los servicios.
         p.mb-0(data-aos="fade-down") El registro sistemático de la información favorece la trazabilidad de las operaciones, ya que permite conocer cuándo ocurrió un evento, quién realizó la actividad, cuál fue la acción ejecutada y cuál fue el resultado obtenido. Esta información resulta útil para la resolución de incidentes, la identificación de causas de fallas y la verificación del cumplimiento de los procedimientos establecidos.
@@ -77,7 +77,7 @@
               p.mb-0 Observaciones o acciones de seguimiento.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t5/img06.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img06.svg', alt='')
     p.mb-4(data-aos="fade-down") Para comprender la información que puede registrarse en este tipo de documento, en la siguiente tabla se presenta un ejemplo simplificado de una bitácora de operación.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -115,7 +115,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t5/img07.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img07.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-1
           p.mb-0(data-aos="fade-down") La información consignada permite identificar las actividades realizadas, los responsables de su ejecución y los resultados obtenidos, facilitando el seguimiento de la operación y el análisis de los eventos ocurridos durante la prestación del servicio.
@@ -221,12 +221,12 @@
     p.mb-4(data-aos="fade-down") Los manuales de despliegue y servicio son documentos técnicos que describen los procedimientos necesarios para instalar, configurar, poner en funcionamiento, administrar y mantener una aplicación o un servicio tecnológico. Su propósito es estandarizar las actividades operativas, facilitar la transferencia de conocimiento y garantizar que los procesos se ejecuten de manera uniforme por parte de los responsables de la operación.
     .col.col-12.mb-4
       figure
-        img(src='@/assets/curso/temas/t5/img15.png', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/t5/img15.png', alt='')
     p.mb-4(data-aos="fade-down") Estos manuales constituyen una fuente de consulta durante las diferentes etapas del ciclo de vida de las aplicaciones y los servicios, ya que reúnen la información necesaria para realizar tareas de despliegue, actualización, mantenimiento y recuperación ante incidentes. Además, favorecen la continuidad operativa al reducir la dependencia del conocimiento individual de los integrantes del equipo.
     .row.bg03.justify-content-center.align-items-center.px-3.mb-4
       .col.col-lg-3.col-6.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t5/img16.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img16.svg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         .tarjeta.tarjeta--blanca.p-4
           p.text-bold.mb-4 Un manual de despliegue y servicio puede incluir la siguiente información
@@ -286,7 +286,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t5/img17.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t5/img17.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C03.px-4.py-3
           p.mb-0(data-aos="fade-down") La organización de la información facilita la ejecución de los procedimientos técnicos, promueve la estandarización de las actividades y contribuye a la correcta administración de las aplicaciones y los servicios tecnológicos.

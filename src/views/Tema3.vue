@@ -16,7 +16,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t3/img02.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img02.svg', alt='')
       .col.col-lg-11.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.px-4.py-1
           p.mb-0(data-aos="fade-down") El monitoreo también constituye una herramienta fundamental para la gestión de la calidad de los servicios tecnológicos, ya que proporciona evidencia objetiva sobre su desempeño. La información obtenida permite evaluar tendencias, identificar oportunidades de mejora y establecer acciones preventivas o correctivas orientadas a mantener la estabilidad de la infraestructura.
@@ -85,12 +85,12 @@
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t3/img13.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t3/img13.svg', alt='')
             .col-lg-10.col-12
               p.mb-0(data-aos="fade-down") Los SLA desempeñan un papel fundamental en la gestión de servicios tecnológicos, ya que proporcionan criterios objetivos para evaluar el cumplimiento de los niveles de servicio establecidos. Asimismo, facilitan el seguimiento del desempeño de la infraestructura tecnológica, la identificación de desviaciones y la implementación de acciones de mejora orientadas a garantizar la continuidad operativa.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t3/img12.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img12.jpg', alt='')
     p.mb-4(data-aos="fade-down") Los acuerdos de nivel de servicio contemplan diferentes elementos que permiten definir las condiciones bajo las cuales se prestará un servicio tecnológico. Entre los principales componentes se encuentran:
     .row.justify-content-center
       .col-xl-4.col-lg-4.col-md-10.col-12.mb-xl-0
@@ -157,7 +157,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t3/img20.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img20.svg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-3
           p.mb-0(data-aos="fade-down") Los acuerdos de nivel de servicio también contribuyen a fortalecer la comunicación entre el proveedor y los usuarios, ya que establecen criterios comunes para medir la calidad del servicio y gestionar los incidentes que puedan presentarse durante su operación. De esta manera, se reducen las diferencias de interpretación sobre el nivel de servicio esperado y se promueve una gestión orientada al cumplimiento de los objetivos organizacionales.
@@ -167,18 +167,18 @@
         .cajon.C08.p-4.h-100.w-100
           .col-lg-2.d-none.d-lg-block.mb-2
             figure
-              img(src='@/assets/curso/temas/t3/img22.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t3/img22.svg', alt='')
           p.mb-0(data-aos="fade-down") Por ejemplo, una empresa que ofrece un servicio de almacenamiento en la nube acuerda con sus clientes una disponibilidad del 99,9 % y un tiempo máximo de respuesta para incidentes críticos de 30 minutos. El monitoreo permanente permite comprobar si estos compromisos se cumplen y facilita la implementación de acciones correctivas cuando se detectan incumplimientos.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t3/img21.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img21.jpg', alt='')
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Indicadores MTBF y MTTR
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t3/img23.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img23.jpg', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-3(data-aos="fade-down") El monitoreo de los servicios tecnológicos requiere indicadores que permitan evaluar el comportamiento de la infraestructura y medir aspectos relacionados con la confiabilidad, la disponibilidad y la capacidad de recuperación ante fallas. Estos indicadores proporcionan información objetiva para analizar el desempeño de los servicios y verificar el cumplimiento de los niveles de servicio establecidos.
         .cajon.cajon.C08.color-primario.p-3.mb-3
@@ -191,14 +191,14 @@
             .row.justify-content-center.mb-3
               .col-lg-4.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/t3/img24.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/t3/img24.svg', alt='')(style="width: 100%")
             h4.text-center MTBF (Mean Time Between Failures)
             p.mb-0(data-aos="fade-down") Mide el tiempo promedio de funcionamiento de un servicio o equipo entre una falla y la siguiente. Un valor elevado de este indicador refleja una mayor confiabilidad, ya que indica que las interrupciones ocurren con menor frecuencia.
           .col-xl.col-lg-6.tarjeta.tarjeta--C14.p-5
             .row.justify-content-center.mb-3
               .col-lg-4.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/t3/img25.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/t3/img25.svg', alt='')(style="width: 100%")
             h4.text-center MTTR (Mean Time To Repair)
             p.mb-0(data-aos="fade-down") Mide el tiempo promedio necesario para restaurar un servicio después de presentarse una falla. Un valor reducido evidencia una mayor capacidad de respuesta y recuperación, favoreciendo la continuidad operativa.
     p.mb-4(data-aos="fade-down") Aunque ambos indicadores analizan aspectos diferentes del desempeño, su interpretación conjunta proporciona una visión más completa sobre el estado de los servicios tecnológicos. Mientras el MTBF permite evaluar la confiabilidad de la infraestructura, el MTTR facilita el análisis de la eficiencia de los procesos de atención y recuperación ante incidentes.
@@ -208,7 +208,7 @@
           p.mb-0(data-aos="fade-down") Por ejemplo, una empresa monitorea el servicio de almacenamiento en la nube y detecta que, durante los últimos meses, las interrupciones se presentan con poca frecuencia y los tiempos de recuperación son cada vez menores. Estos resultados indican una mejora en la confiabilidad de la infraestructura y una mayor capacidad para restablecer el servicio cuando ocurre una falla, contribuyendo al cumplimiento de los acuerdos de nivel de servicio establecidos.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t3/img26.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img26.jpg', alt='')
     p.mb-0(data-aos="fade-down") El seguimiento periódico de indicadores como el MTBF y el MTTR facilita la identificación de tendencias, la evaluación del desempeño de la infraestructura tecnológica y la implementación de acciones orientadas a fortalecer la disponibilidad y continuidad de los servicios. Asimismo, proporciona información relevante para apoyar la toma de decisiones y promover la mejora continua en la gestión de los servicios tecnológicos.
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -251,7 +251,7 @@
               p.mb-0 Implementación de acciones preventivas para reducir riesgos operativos.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t3/img28.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img28.svg', alt='')
     p.mb-4(data-aos="fade-down") La interpretación de estos resultados permite priorizar las acciones de mejora de acuerdo con el impacto que tienen sobre la operación de los servicios tecnológicos. Asimismo, facilita la planificación de actividades relacionadas con la optimización de recursos, la actualización de la infraestructura, el fortalecimiento de los procesos de monitoreo y la mejora de la disponibilidad de los servicios.
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-5.col-12.order-lg-1.order-2
@@ -259,7 +259,7 @@
           p.mb-0(data-aos="fade-down") Por ejemplo, una organización identifica mediante el monitoreo de su plataforma en la nube, que el tiempo promedio de recuperación de los servicios ha aumentado durante las últimas semanas. Después de analizar esta información, decide revisar los procedimientos de atención de incidentes, fortalecer los mecanismos de recuperación y actualizar algunos componentes de la infraestructura. Estas acciones contribuyen a reducir los tiempos de restablecimiento del servicio y mejorar el cumplimiento de los acuerdos de nivel de servicio.
       .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t3/img29.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img29.jpg', alt='')
     p.mb-0(data-aos="fade-down") La interpretación adecuada de la información obtenida mediante el monitoreo constituye un elemento fundamental para la gestión de los servicios tecnológicos. El análisis permanente de los resultados favorece la toma de decisiones basada en evidencia, fortalece la mejora continua y contribuye a garantizar servicios más confiables, disponibles y alineados con las necesidades de las organizaciones y sus usuarios.
 </template>
 <script>
